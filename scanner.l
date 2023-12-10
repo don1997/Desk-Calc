@@ -1,13 +1,3 @@
-/* 
-
-Donald McLaughlin 
-
-Lexer for Desk Calculator
-FALL 2023 PPL
-
-Updated version for parser integration
-
-*/
 
 
 /* 

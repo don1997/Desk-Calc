@@ -1,39 +1,3 @@
-/* 
-
-Donald McLaughlin 
-
-Parser for Desk Calculator
-FALL 2023 PPL
-
-OS: Linux Mint
-
-Files Provided
------------------
-
-* parser.y
-* scanner.l
-* Makefile
-
-*/
-
-/* 
-
-Make Usage
-----------
-If system can run make files run the following commands for compilation. 
-If not consult manual compilation steps.
-1. $ make
-
-Running and usage
-
-If have a file for testing name input.txt for example
-2. $ ./calc < input.txt
-
-To clean out generated files
-3. $ make clean  
-*/
-
-
 
 /* 
 
