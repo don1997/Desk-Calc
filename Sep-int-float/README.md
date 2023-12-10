@@ -13,3 +13,6 @@ Paranthesis
 
 
 
+## Finish
+
+Dead ver ran into issues wiht mod op and sep int and float vals. going to combine the two.
